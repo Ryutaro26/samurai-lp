@@ -1,6 +1,0 @@
-<?php
-$name = "Ryutaro Yoshida";
-
-print($name);
-
-?>
